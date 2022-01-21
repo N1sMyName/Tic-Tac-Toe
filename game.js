@@ -1,6 +1,5 @@
 const readline = require('readline')
 
-// debug values
 
 function renderField(field = new Array(9).fill(0)) {
     let output = '';
